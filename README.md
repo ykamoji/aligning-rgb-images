@@ -1,1 +1,1 @@
-# aligning-rgb-images
+![Question](https://github.com/ykamoji/aligning-rgb-images/blob/main/img_refs/question.png?raw=true)
